@@ -79,4 +79,9 @@
     float: left;
     list-style: none;
     margin-right: 15px;
+}#logo{
+    margin-left: 10px;
+    width: 7%;
+    height: 100px;
+    margin-right: 10px;
 }
